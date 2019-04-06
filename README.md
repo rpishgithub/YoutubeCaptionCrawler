@@ -1,8 +1,8 @@
 # YoutubeCaptionCrawler
 
+**Introduce**
 
-
-##Introduce
+---
 
 This software is written by Yao and Deng to participate The Software Development Competition of MJU.
 
@@ -14,7 +14,9 @@ It can crawl captions and store in your database and then analyze which words ar
 
 
 
-##Environment
+**Environment**
+
+---
 
 MongoDB Server([Download](https://www.mongodb.com/download-center/community?tdsourcetag=s_pctim_aiomsg))
 
