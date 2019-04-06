@@ -1,8 +1,8 @@
 # YoutubeCaptionCrawler
 
-##Introduce
 
----
+
+##Introduce
 
 This software is written by Yao and Deng to participate The Software Development Competition of MJU.
 
@@ -10,13 +10,11 @@ It crawl the captions on nitrxgen.net for YouTube API forbids to download vedio 
 
 It can crawl captions and store in your database and then analyze which words are important.
 
-![1554529701819](C:\Users\rpish\AppData\Roaming\Typora\typora-user-images\1554529701819.png)
+![1554529701819](Images/1554529701819.png)
 
 
 
 ##Environment
-
----
 
 MongoDB Server([Download](https://www.mongodb.com/download-center/community?tdsourcetag=s_pctim_aiomsg))
 
@@ -35,8 +33,6 @@ Python Dependence:
   
 
 ## Usage
-
----
 
 **HELP:**python YoutubeCaptionDownloader.py -h
 
@@ -58,17 +54,15 @@ Python Dependence:
 
 ## Result
 
----
-
  1)WordCloud
 
-![img](file:///C:/Users/rpish/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![img](Images/clip_image001.png)
 
  
 
 2)Histogram
 
-![img](file:///C:/Users/rpish/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)   
+![img](Images/clip_image003.png)   
 
 
 
